@@ -12,3 +12,5 @@ ui/ui.hh is for the size/name/window flags
 - [ ] Add a Design (will never do that i am to lazy do it yourself)
 
 maybe i will upload design but rn i am to lazy to do it
+
+![gui pic](https://i.imgur.com/MgdCXYu.png)
