@@ -13,4 +13,6 @@ ui/ui.hh is for the size/name/window flags
 
 maybe i will upload design but rn i am to lazy to do it
 
+Gui rn you can always edit the design its just because the tabs and stuff
+
 ![gui pic](https://i.imgur.com/MgdCXYu.png)
